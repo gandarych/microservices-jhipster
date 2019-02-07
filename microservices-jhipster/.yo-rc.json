@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "eu.microwebservices.awesomemicroserviceapp",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.8.1",
+    "applicationType": "microservice",
+    "baseName": "MicroServApp",
+    "packageName": "eu.microwebservices.awesomemicroserviceapp",
+    "packageFolder": "eu/microwebservices/awesomemicroserviceapp",
+    "serverPort": "8081",
+    "authenticationType": "oauth2",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "oracle",
+    "searchEngine": false,
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Y2Q2MWI0OTBkNDZiOTMwOWVmNTE2MGMzYjBlY2VlNGUyN2JmMmQyYjk3ZDc5NmM1N2E5ZGEwNDFmZjE1MDkzZjUzOGY4MTEzZjFmNjc0YWJmNzRmOTUzMDdjNDk2M2Q3ZWVkNmFlZmVhMTBjMjUyYWIwODhlNzBmZjVmYTQ4MWM=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "pl"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
